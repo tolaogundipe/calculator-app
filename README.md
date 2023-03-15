@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tolaogundipe/calculator-app)
-- Live Site URL: [Add live site URL here](https://tola-calculator-app.netlify.app/)
+- Solution URL: [https://github.com/tolaogundipe/calculator-app](https://github.com/tolaogundipe/calculator-app)
+- Live Site URL: [https://tola-calculator-app.netlify.app/](https://tola-calculator-app.netlify.app/)
 
 ## My process
 
