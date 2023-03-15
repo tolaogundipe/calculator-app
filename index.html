@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">
+  
+  <title>Frontend Mentor | Calculator app</title>
+
+</head>
+<body>
+  <div class="calculator" id="Calculator">
+    <header>
+      <h2 class="name">calc</h2>
+      <p class="theme">THEME</p>
+      <div class="toggle-grp">
+        <div class="toggle-label">
+          <p id="theme-1">1</p>
+          <p id="theme-2">2</p>
+          <p id="theme-3">3</p>
+        </div>
+        <div class="toggle">
+          <div class="toggle-btn" id="toggle-btn"></div>
+        </div>
+      </div>
+    </header>
+    <div class="screen" id="screen">
+      <div id="left-entries"></div>
+      <div id="operator-entry"></div>
+      <div id="right-entries"></div>
+    </div>
+    <div class="key-pad" id="keypad">
+      <div id="key-7" class="keys other-keys">7</div>
+      <div id="key-8" class=" keys other-keys">8</div>
+      <div id="key-9" class=" keys other-keys">9</div>
+      <div id="key-del" class=" del-key">DEL</div>
+      <div id="key-4" class="keys other-keys">4</div>
+      <div id="key-5" class="keys other-keys">5</div>
+      <div id="key-6" class="keys other-keys">6</div>
+      <div id="plus-key"class="operator-keys other-keys">+</div>
+      <div id="key-1" class="keys other-keys">1</div>
+      <div id="key-2"class="keys other-keys">2</div>
+      <div id="key-3"class="keys other-keys">3</div>
+      <div id="minus-key"class="operator-keys other-keys">-</div>
+      <div id="dot-key"class=" other-keys">.</div>
+      <div id="key-0"class="keys other-keys">0</div>
+      <div id="divide-key"class="operator-keys other-keys">/</div>
+      <div id="multiply-key"class="operator-keys other-keys">x</div>
+      <div id="reset-key"class="reset-key">RESET</div>
+      <div id="equal-key" class="equals-key">=</div>
+    </div>
+    
+  </div>
+
+
+  
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Adetola Ogundipe</a>.
+  </div>
+  <script src="index.js"></script>
+  <script src="theme.js"></script>
+</body>
+</html>
