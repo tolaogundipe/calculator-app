@@ -52,7 +52,7 @@ Users should be able to:
 ## Author
 
 - Website - [Adetola Ogundipe](https://github.com/tolaogundipe)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tolaogundipe)
+- Frontend Mentor - [@tolaogundipe](https://www.frontendmentor.io/profile/tolaogundipe)
 
 
 
